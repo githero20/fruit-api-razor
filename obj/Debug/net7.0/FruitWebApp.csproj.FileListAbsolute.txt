@@ -28,3 +28,4 @@ C:\Users\oatakpu\Desktop\others\FruitWebApp-codebehind\obj\Debug\net7.0\refint\F
 C:\Users\oatakpu\Desktop\others\FruitWebApp-codebehind\obj\Debug\net7.0\FruitWebApp.pdb
 C:\Users\oatakpu\Desktop\others\FruitWebApp-codebehind\obj\Debug\net7.0\FruitWebApp.genruntimeconfig.cache
 C:\Users\oatakpu\Desktop\others\FruitWebApp-codebehind\obj\Debug\net7.0\ref\FruitWebApp.dll
+C:\Users\oatakpu\Desktop\others\FruitWebApp-codebehind\obj\Debug\net7.0\FruitWebApp.sourcelink.json

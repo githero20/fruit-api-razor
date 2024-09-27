@@ -40,7 +40,7 @@ namespace FruitWebApp.Pages
 		
 
 		// Begin PUT operation code
-        public async Task<IActionResult> OnPut()
+        public async Task<IActionResult> OnPost()
         {
             // Serialise the info to be added to the DB
             var jsonContent = new StringContent(JsonSerializer.Serialize(FruitModels), Encoding.UTF8, "application/json");
