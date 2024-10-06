@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oatakpu\\Desktop\\others\\FruitWebApp-codebehind\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62EBF494-95DF-464A-9D9A-E0CF713E96FB}|FruitWebApp.csproj|c:\\users\\oatakpu\\desktop\\others\\fruitwebapp-codebehind\\pages\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62EBF494-95DF-464A-9D9A-E0CF713E96FB}|FruitWebApp.csproj|solutionrelative:pages\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62EBF494-95DF-464A-9D9A-E0CF713E96FB}|FruitWebApp.csproj|c:\\users\\oatakpu\\desktop\\others\\fruitwebapp-codebehind\\pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62EBF494-95DF-464A-9D9A-E0CF713E96FB}|FruitWebApp.csproj|solutionrelative:pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62EBF494-95DF-464A-9D9A-E0CF713E96FB}|FruitWebApp.csproj|c:\\users\\oatakpu\\desktop\\others\\fruitwebapp-codebehind\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62EBF494-95DF-464A-9D9A-E0CF713E96FB}|FruitWebApp.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 349,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\oatakpu\\Desktop\\others\\FruitWebApp-codebehind\\Pages\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\oatakpu\\Desktop\\others\\FruitWebApp-codebehind\\Pages\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T17:20:32.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\oatakpu\\Desktop\\others\\FruitWebApp-codebehind\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\oatakpu\\Desktop\\others\\FruitWebApp-codebehind\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T17:19:41.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\oatakpu\\Desktop\\others\\FruitWebApp-codebehind\\Pages\\Add.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Add.cshtml",
+              "ToolTip": "C:\\Users\\oatakpu\\Desktop\\others\\FruitWebApp-codebehind\\Pages\\Add.cshtml",
+              "RelativeToolTip": "Pages\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T17:17:43.639Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
